@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/DetectViT.git
+git clone https://github.com/siquanhuang/DetectViT.git
 cd DetectViT
 ```
 
