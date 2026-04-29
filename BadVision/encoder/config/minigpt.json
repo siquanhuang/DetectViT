@@ -1,0 +1,5 @@
+{
+    "img_size": 224,
+    "precision": "fp32",
+    "mm_vision_tower": "/home/MiniGPT-4/pretrained_weight/eva_vit_g.pth"
+}
