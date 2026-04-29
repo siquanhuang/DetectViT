@@ -92,8 +92,6 @@ python3 -u main.py \
 |---|---|---|
 | `--defense` | Detection method (`DetectViT`, `DeDe`, `BackdoorIDS`, ...) | `DetectViT` |
 | `--attack_type` | Attack to evaluate (`badvit`, `trojvit`, `badclip`, `badvision`) | — |
-| `--ood_source` | OOD calibration dataset source | `iNaturalist` |
-| `--ood_size` | Number of OOD calibration samples $M$ | `128` |
 | `--gpu` | GPU device ID | `0` |
 
 ---
