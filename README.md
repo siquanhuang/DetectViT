@@ -108,9 +108,3 @@ This project builds upon the following open-source works. We sincerely thank the
 - **BadVision** — [https://github.com/6zHAOyi/BadVision](https://github.com/6zHAOyi/BadVision)
 - **DeDe** — [https://github.com/tardisblue9/DeDe](https://github.com/tardisblue9/DeDe)
 - **BackdoorIDS** — [https://github.com/siquanhuang/BackdoorIDS](https://github.com/siquanhuang/BackdoorIDS)
-
----
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
