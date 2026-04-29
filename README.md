@@ -15,7 +15,7 @@ cd DetectViT
 
 ---
 
-## Pretrained Models & Triggers
+## Pretrained Attack Models & Triggers
 
 Download the pretrained backdoored model checkpoints and optimized triggers from Google Drive:
 
