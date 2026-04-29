@@ -5,7 +5,6 @@
 ```bash
 git clone https://github.com/YOUR_USERNAME/DetectViT.git
 cd DetectViT
-pip install -r requirements.txt
 ```
 
 ### Prerequisites
