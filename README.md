@@ -57,9 +57,6 @@ python3 main.py \
 python3 -u main.py \
   --defense DetectViT \
   --attack_type badclip \
-  --poison_rate 0.01 \
-  --epochs 10 \
-  --test_mask_ratio 0.99 \
   --gpu 0 \
   --eval_data_type ImageNet1K \
   --eval_test_data_dir BadCLIP/data/ImageNet1K/validation/ \
@@ -78,9 +75,6 @@ python3 -u main.py \
 python3 -u main.py \
   --defense DetectViT \
   --attack_type badvision \
-  --poison_rate 0.01 \
-  --epochs 10 \
-  --test_mask_ratio 0.99 \
   --gpu 0
 ```
 
