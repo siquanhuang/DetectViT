@@ -17,13 +17,6 @@
 
 ---
 
-## News
-
-- **[2026/11]** The NeurIPS 2026 poster and project figures are released.
-- DetectViT has been accepted to **NeurIPS 2026**.
-
----
-
 ## Overview
 
 Vision Transformers (ViTs) are the visual encoder of most multimodal models, and practitioners routinely build on third-party pretrained checkpoints that may carry a backdoor. **DetectViT** is a test-time backdoor sample detector for ViTs that reads the attention heads instead of the model's outputs or embeddings.
