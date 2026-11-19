@@ -8,8 +8,8 @@
 
 <sup>\*</sup>Corresponding authors
 
-[![NeurIPS 2026](https://img.shields.io/badge/NeurIPS-2026-68448B.svg)](https://neurips.cc/Conferences/2026)
-[![Paper](https://img.shields.io/badge/arXiv-coming%20soon-b31b1b.svg)](#)
+[![NeurIPS 2026](https://img.shields.io/badge/NeurIPS-2026-68448B.svg)](https://neurips.cc/virtual/2026/loc/sydney/poster/151934)
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2611.23770)
 [![Poster](https://img.shields.io/badge/Poster-PDF-1F3A68.svg)](assets/DetectViT_NeurIPS2026_poster.pdf)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
